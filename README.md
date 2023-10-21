@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emilycady
 - 👀 I’m interested in coding and innovative tech solutions
 - 🌱 I’m currently learning everything! I'm justing starting out
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on a fun and beginner level repository
 - 📫 How to reach me: emilyccady@gmail.com
 
 <!---
